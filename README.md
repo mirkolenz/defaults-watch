@@ -1,2 +1,3 @@
 # defaults-watch
-Watch macOS defaults for changes
+
+Watch macOS defaults for changes.
